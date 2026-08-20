@@ -1,5 +1,5 @@
 
-# Test Execution - SauceDemo
+# Test Execution
 
 ## Informasi Pengujian
 
