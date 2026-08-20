@@ -1,2 +1,15 @@
-# manual-qa-portofolio
-Manual QA Testing Portofolio - Test Plan, Test Case, Test Execution and Bug Reports
+# MANUAL QA PORTOFOLIO
+## About This Portofolio
+This repository contains my Manual Quality Assurance testing projects.
+
+The portfolio demonstrates my understanding and practical experience in:
+
+- Test Planning
+- Test Scenario
+- Test Case Design
+- Test Execution
+- Bug Reporting
+- Functional Testing
+- Negative Testing
+- Exploratory Testing
+- Regression Testing
