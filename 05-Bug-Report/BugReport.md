@@ -26,6 +26,7 @@
 `Password: secret_sauce`
 ### Lampiran
 <img src="../Lampiran/BUG-001.png" width="500" />
+
 ---
 
 ## BUG-002 — Sorting Name A-Z Tidak Sesuai
