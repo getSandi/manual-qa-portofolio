@@ -14,7 +14,7 @@
 
 ---
 
-# 2. Regression Testing Objective
+## 2. Regression Testing Objective
 
 Regression testing dilakukan untuk memastikan fungsi utama aplikasi SauceDemo tetap berjalan sesuai dengan expected result berdasarkan kondisi aplikasi saat pengujian dilakukan.
 
@@ -24,7 +24,7 @@ Pada project ini, SauceDemo digunakan sebagai aplikasi demo untuk keperluan port
 
 ---
 
-# 3. Regression Testing Scope
+## 3. Regression Testing Scope
 
 | Module | Regression Scope |
 |---|---|
@@ -37,7 +37,7 @@ Pada project ini, SauceDemo digunakan sebagai aplikasi demo untuk keperluan port
 
 ---
 
-# 4. Regression Test Execution
+## 4. Regression Test Execution
 
 ## 4.1 Login
 
@@ -114,7 +114,7 @@ Pada project ini, SauceDemo digunakan sebagai aplikasi demo untuk keperluan port
 
 ---
 
-# 5. Regression Test Result
+## 5. Regression Test Result
 
 | Result | Total | Percentage |
 |---|---:|---:|
@@ -125,7 +125,7 @@ Pada project ini, SauceDemo digunakan sebagai aplikasi demo untuk keperluan port
 
 ---
 
-# 6. Regression Pass Rate
+## 6. Regression Pass Rate
 
 ```text
 Pass Rate = (PASS / Total Test Case) × 100%
@@ -135,7 +135,7 @@ Pass Rate = (32 / 34) × 100%
 Pass Rate = 94.12%
 ```
 ---
-# 7. Failed Regression Test Cases
+## 7. Failed Regression Test Cases
 
 | Scenario ID | Test Case ID | Bug ID | Module | Expected Result | Actual Result | Status |
 |---|---|---|---|---|---|---|
@@ -144,7 +144,7 @@ Pass Rate = 94.12%
 
 ---
 
-# 8. Bug Summary
+## 8. Bug Summary
 
 | Bug ID | Test Case ID | Module | Title | Severity | Priority | Status |
 |---|---|---|---|---|---|---|
@@ -153,7 +153,7 @@ Pass Rate = 94.12%
 
 ---
 
-# 9. Bug Status Definition
+## 9. Bug Status Definition
 
 | Status | Keterangan |
 |---|---|
@@ -164,7 +164,7 @@ Pass Rate = 94.12%
 
 ---
 
-# 10. Regression Testing Conclusion
+## 10. Regression Testing Conclusion
 
 Berdasarkan hasil regression testing terhadap **33 test case**, sebanyak **31 test case PASS** dan **2 test case FAIL**.
 
@@ -185,7 +185,7 @@ SauceDemo digunakan sebagai aplikasi demo untuk keperluan portfolio Manual QA. O
 
 ---
 
-# 11. Retest Status
+## 11. Retest Status
 
 | Item | Status |
 |---|---|
@@ -196,7 +196,7 @@ SauceDemo digunakan sebagai aplikasi demo untuk keperluan portfolio Manual QA. O
 
 ---
 
-# 12. Regression Testing Final Status
+## 12. Regression Testing Final Status
 
 | Item | Result |
 |---|---|
