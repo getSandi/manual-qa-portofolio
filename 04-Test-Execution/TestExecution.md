@@ -92,7 +92,7 @@
 
 | Total Test Case | PASS | FAIL | BLOCKED |
 |---:|---:|---:|---:|
-| 30 | 28 | 2 | 0 |
+| 33 | 31 | 2 | 0 |
 
 ## Failed Test Cases
 
@@ -103,6 +103,6 @@
 
 ## Kesimpulan
 
-Dari 30 test case yang dieksekusi, terdapat 28 test case PASS dan 2 test case FAIL.
+Dari 30 test case yang dieksekusi, terdapat 31 test case PASS dan 2 test case FAIL.
 
-Kedua test case FAIL kemudian akan dianalisis lebih lanjut dan dibuatkan Bug Report.
+Kedua test case FAIL akan dianalisis lebih lanjut dan dibuatkan Bug Report.
