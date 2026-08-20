@@ -56,4 +56,6 @@ Pengujian meliputi:
 
 **Operating System:** Windows 10
 
-**Testing Type:** Blackbox Testing
+**Testing Type:** Manual Testing
+
+**Testing Approach:** Blackbox Testing
