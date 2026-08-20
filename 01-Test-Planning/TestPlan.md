@@ -149,7 +149,7 @@ Dokumen yang akan dihasilkan dari proses pengujian meliputi:
 - Test Case
 - Test Execution
 - Bug Report
-- Test Summary Report
+- Regression Testing
 
 ---
 
