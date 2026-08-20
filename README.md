@@ -1,4 +1,4 @@
-# MANUAL QA PORTOFOLIO
+# Quality Assurance Portofolio
 ## About This Portofolio
 This repository contains my Manual Quality Assurance testing projects.
 
