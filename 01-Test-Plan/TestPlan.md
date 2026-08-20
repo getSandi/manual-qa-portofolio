@@ -54,29 +54,35 @@ Pengujian berikut tidak termasuk dalam ruang lingkup proyek:
 
 ---
 
-## 4. Jenis Pengujian
+## 4. Pendekatan dan Jenis Pengujian
 
-Jenis pengujian yang akan dilakukan adalah:
+### 4.1 Manual Testing
 
-### 4.1 Functional Testing
+Seluruh proses pengujian dilakukan secara manual dengan menjalankan langkah-langkah pengujian dan mencatat hasil aktual dari aplikasi.
 
-Pengujian dilakukan untuk memastikan setiap fungsi pada aplikasi berjalan sesuai dengan perilaku yang diharapkan.
+### 4.2 Black Box Testing
 
-### 4.2 Positive Testing
+Pengujian dilakukan dengan memeriksa fungsi dan perilaku aplikasi berdasarkan input dan output tanpa melihat atau mengakses source code aplikasi.
 
-Pengujian dilakukan menggunakan input dan tindakan yang valid untuk memastikan sistem dapat memberikan hasil yang sesuai.
+### 4.3 Functional Testing
 
-### 4.3 Negative Testing
+Pengujian dilakukan untuk memastikan setiap fungsi aplikasi berjalan sesuai dengan perilaku yang diharapkan.
 
-Pengujian dilakukan menggunakan input yang tidak valid atau tindakan yang tidak sesuai untuk melihat bagaimana sistem menangani kondisi tersebut.
+### 4.4 Positive Testing
 
-### 4.4 Exploratory Testing
+Pengujian dilakukan menggunakan input dan kondisi yang valid untuk memastikan aplikasi memberikan hasil yang sesuai.
+
+### 4.5 Negative Testing
+
+Pengujian dilakukan menggunakan input atau kondisi yang tidak valid untuk melihat bagaimana aplikasi menangani kondisi tersebut.
+
+### 4.6 Exploratory Testing
 
 Pengujian dilakukan dengan mengeksplorasi aplikasi secara bebas untuk menemukan kemungkinan masalah yang belum tercakup dalam test case.
 
-### 4.5 Regression Testing
+### 4.7 Regression Testing
 
-Pengujian dilakukan kembali terhadap fitur yang sebelumnya telah diuji untuk memastikan perubahan atau perbaikan tidak menyebabkan masalah pada fungsi yang sudah berjalan.
+Pengujian dilakukan kembali terhadap fungsi yang sebelumnya telah diuji untuk memastikan perubahan atau perbaikan tidak menyebabkan masalah pada fungsi lainnya.
 
 ---
 
