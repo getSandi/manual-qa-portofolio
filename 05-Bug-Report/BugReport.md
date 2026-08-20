@@ -1,0 +1,55 @@
+# Bug Report - SauceDemo
+
+## BUG-001 — Product Image Tidak Sesuai
+
+| Field | Detail |
+|---|---|
+| Bug ID | BUG-001 |
+| Test Case ID | TC-PROD-004 |
+| Module | Product |
+| Title | Gambar produk tidak sesuai dengan produk pada `problem_user` |
+| Environment | Windows 10, Google Chrome 152 |
+| Test Account | `problem_user` |
+| Severity | Medium |
+| Priority | Medium |
+| Status | Open |
+
+### Preconditions
+
+1. Pengguna berada pada halaman login SauceDemo.
+2. Akun `problem_user` tersedia.
+3. Browser menggunakan Google Chrome 152.
+
+### Test Data
+
+`Username: problem_user`
+`Password: secret_sauce`
+
+---
+
+## BUG-002 — Sorting Name A-Z Tidak Sesuai
+
+| Field | Detail |
+|---|---|
+| Bug ID | BUG-002 |
+| Test Case ID | TC-SORT-001 |
+| Module | Product Sorting |
+| Title | Sorting Name (A to Z) tidak mengurutkan produk sesuai pilihan |
+| Environment | Windows 10, Google Chrome 152 |
+| Test Account | `problem_user` |
+| Severity | Medium |
+| Priority | Medium |
+| Status | Open |
+
+### Preconditions
+
+1. Pengguna berada pada halaman login SauceDemo.
+2. Akun `problem_user` tersedia.
+3. Browser menggunakan Google Chrome 152.
+
+### Test Data
+
+```text
+Username: problem_user
+Password: secret_sauce
+Sorting: Name (A to Z)
