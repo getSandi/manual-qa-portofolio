@@ -56,7 +56,7 @@
 |---|---|---|---|---|
 | TS-CART-001 | TC-CART-001 | Halaman Your Cart ditampilkan. | Halaman Your Cart berhasil ditampilkan. | PASS |
 | TS-CART-002 | TC-CART-002 | Produk yang dipilih ditampilkan di shopping cart. | Produk yang dipilih ditampilkan di shopping cart. | PASS |
-| TS-CART-003 | TC-CART-003 | Produk berhasil dihapus dari shopping cart. | Produk berhasil dihapus dari shopping cart. | PASS |
+| TS-CART-003 | TC-CART-003 | Produk berhasil dihapus dari shopping cart. | Button Remove tidak dapat menghapus produk pada akun `problem_user` | FAIL |
 | TS-CART-004 | TC-CART-004 | Jumlah item pada shopping cart bertambah sesuai jumlah produk. | Jumlah item bertambah sesuai jumlah produk yang ditambahkan. | PASS |
 | TS-CART-005 | TC-CART-005 | Jumlah item pada shopping cart diperbarui setelah produk dihapus. | Jumlah item diperbarui setelah produk dihapus. | PASS |
 | TS-CART-006 | TC-CART-006 | Pengguna diarahkan ke halaman Checkout: Your Information. | Pengguna berhasil diarahkan ke halaman Checkout: Your Information. | PASS |
@@ -99,7 +99,7 @@
 | Test Case ID | Defect |
 |---|---|
 | TC-PROD-004 | Gambar produk tidak sesuai ketika menggunakan `problem_user` |
-| TC-SORT-001 | Sorting Name (A to Z) tidak bekerja sesuai expected result pada `problem_user` |
+| TC-CART-003 | Button Remove tidak dapat menghapus produk pada akun `problem_user` |
 
 ## Kesimpulan
 
