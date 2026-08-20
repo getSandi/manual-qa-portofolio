@@ -96,9 +96,9 @@ Seluruh test case akan dieksekusi secara manual menggunakan:
 * Metode: Manual Testing
 * Pendekatan: Black Box Testing
 
-Status test case akan diisi setelah proses eksekusi dilakukan.
+Statuss test case akan diisi setelah proses eksekusi dilakukan.
 
-Status yang digunakan:
+Statuss yang digunakan:
 
 * **PASS**: Actual Result sesuai dengan Expected Result.
 * **FAIL**: Actual Result tidak sesuai dengan Expected Result.
