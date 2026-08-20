@@ -24,7 +24,8 @@
 
 `Username: problem_user`
 `Password: secret_sauce`
-
+### Lampiran
+<img src="../Lampiran/BUG-001.png" width="500" />
 ---
 
 ## BUG-002 — Sorting Name A-Z Tidak Sesuai
@@ -57,7 +58,7 @@
 ---
 
 ### Lampiran
-![Login Page](Lampiran/BUG-001.png)
+<img src="../Lampiran/BUG-001.png" width="300" />
 
 # Bug Summary
 
