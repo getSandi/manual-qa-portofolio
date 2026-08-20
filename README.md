@@ -47,13 +47,13 @@ Portofolio ini menunjukkan pemahaman dan pengalaman praktik saya dalam:
 
 | Document | Description |
 |---|---|
-| [Test Plan](01-Test-Plan/Test-Plan.md) | Tujuan, scope, dan strategi pengujian |
+| [Test Planning](01-Test-Plan/Test-Plan.md) | Tujuan, scope, dan strategi pengujian |
 | [Test Scenario](02-Test-Scenario/Test-Scenario.md) | Skenario pengujian tingkat tinggi |
 | [Test Case](03-Test-Case/Test-Case.md) | Detail test case dan test data |
 | [Test Execution](04-Test-Execution/Test-Execution.md) | Hasil eksekusi pengujian |
 | [Bug Report](05-Bug-Report/) | Dokumentasi defect yang ditemukan |
 | [Regression Testing](06-Regression-Testing/Regression-Testing.md) | Hasil regression testing |
-| [Test Summary Report](07-Test-Summary-Report/Test-Summary-Report.md) | Ringkasan hasil pengujian |
+
 
 ---
 
