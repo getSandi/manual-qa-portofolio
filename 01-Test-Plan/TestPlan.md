@@ -7,7 +7,7 @@
 | Proyek | Pengujian Manual E-Commerce SauceDemo |
 | Jenis Pengujian | Manual QA |
 | Aplikasi | SauceDemo |
-| Tester | Soe Kar |
+| Tester | getSandi | ****************
 | Sistem Operasi | Windows 10 |
 | Browser | Google Chrome 152 |
 | Versi Dokumen | 1.0 |
