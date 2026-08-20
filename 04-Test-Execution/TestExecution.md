@@ -96,10 +96,10 @@
 
 ## Failed Test Cases
 
-| Test Case ID | Defect |
-|---|---|
-| TC-PROD-004 | Gambar produk tidak sesuai ketika menggunakan `problem_user` |
-| TC-CART-003 | Button Remove tidak dapat menghapus produk pada akun `problem_user` |
+| Test Case ID | Defect | Severity | Priority |
+|---|---|---|---|
+| TC-PROD-004 | Gambar produk tidak sesuai ketika menggunakan `problem_user` | Medium | Medium |
+| TC-CART-003 | Button Remove tidak dapat menghapus produk pada akun `problem_user` | Medium | Medium |
 
 ## Kesimpulan
 
