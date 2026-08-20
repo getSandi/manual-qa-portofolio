@@ -96,7 +96,7 @@ Seluruh test case akan dieksekusi secara manual menggunakan:
 * Metode: Manual Testing
 * Pendekatan: Black Box Testing
 
-Statuss test case akan diisi setelah proses eksekusi dilakukan.
+### Status test case akan diisi setelah proses eksekusi dilakukan.
 
 Statuss yang digunakan:
 
