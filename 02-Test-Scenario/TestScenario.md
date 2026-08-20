@@ -1,4 +1,4 @@
-# Test Scenario SauceDemo
+# Test Scenario
 
 ## Informasi Pengujian
 
