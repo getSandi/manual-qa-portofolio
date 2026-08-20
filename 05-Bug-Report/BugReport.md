@@ -56,6 +56,9 @@
 
 ---
 
+### Lampiran
+![Login Page](Lampiran/BUG-001.png)
+
 # Bug Summary
 
 | Bug ID | Module | Severity | Priority | Status |
