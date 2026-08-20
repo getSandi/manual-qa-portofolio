@@ -1,4 +1,4 @@
-# Test Summary Report - SauceDemo
+# Test Summary Report
 
 ## 1. Test Summary
 
