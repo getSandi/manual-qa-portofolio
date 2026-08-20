@@ -1,4 +1,4 @@
-# Bug Report - SauceDemo
+# Bug Report
 
 ## BUG-001 — Product Image Tidak Sesuai
 
