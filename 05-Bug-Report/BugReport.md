@@ -49,7 +49,22 @@
 
 ### Test Data
 
-```text
-Username: problem_user
-Password: secret_sauce
-Sorting: Name (A to Z)
+
+`Username: problem_user`
+`Password: secret_sauce`
+`Sorting: Name (A to Z)`
+
+---
+
+# Bug Summary
+
+| Bug ID | Module | Severity | Priority | Status |
+|---|---|---|---|---|
+| BUG-001 | Product | Medium | Medium | Open |
+| BUG-002 | Product Sorting | Medium | Medium | Open |
+
+## Total Bug
+
+- Total Bug: 2
+- Open: 2
+- Closed: 0
