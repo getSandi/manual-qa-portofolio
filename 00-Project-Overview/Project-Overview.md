@@ -10,7 +10,7 @@ SauceDemo
 
 ## Project Description
 
-This projects focuses on manual testing of the SauceDemo e-commerce web application.
+This project focuses on manual testing of the SauceDemo e-commerce web application.
 
 The purpose of this project is to verify the functionality of the application and identify potential defects through structured manual testing.
 
