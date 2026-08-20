@@ -1,4 +1,4 @@
-# Test Case SauceDemo
+# Test Case
 
 ## Informasi Pengujian
 
