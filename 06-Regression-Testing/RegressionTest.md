@@ -67,8 +67,8 @@
 
 | Bug ID | Test Case ID | Module | Title | Severity | Priority | Status |
 |---|---|---|---|---|---|---|
-| BUG-001 | TC-PROD-004 | Product | Gambar produk tidak sesuai dengan produk pada `problem_user` | Medium | Medium | Pending |
-| BUG-002 | TC-CART-003 | Shopping Cart | Button Remove tidak dapat menghapus produk pada `problem_user` | Medium | Medium | Pending |
+| BUG-001 | TC-PROD-004 | Product | Gambar produk tidak sesuai dengan produk pada `problem_user` | Medium | Medium | Open |
+| BUG-002 | TC-CART-003 | Shopping Cart | Button Remove tidak dapat menghapus produk pada `problem_user` | Medium | Medium | Open |
 
 ---
 
@@ -87,7 +87,7 @@
 | Test Account | `problem_user` |
 | Severity | Medium |
 | Priority | Medium |
-| Status | Pending |
+| Status | Open |
 
 ### Description
 
@@ -122,7 +122,7 @@
 | Test Account | `problem_user` |
 | Severity | Medium |
 | Priority | Medium |
-| Status | Pending |
+| Status | Open |
 
 ### Description
 
@@ -148,8 +148,8 @@
 
 | Bug ID | Module | Severity | Priority | Impact | Status |
 |---|---|---|---|---|---|
-| BUG-001 | Product | Medium | Medium | Gambar produk tidak sesuai dan dapat membingungkan user. | Pending |
-| BUG-002 | Shopping Cart | Medium | Medium | User tidak dapat menghapus produk melalui button Remove. | Pending |
+| BUG-001 | Product | Medium | Medium | Gambar produk tidak sesuai dan dapat membingungkan user. | Open |
+| BUG-002 | Shopping Cart | Medium | Medium | User tidak dapat menghapus produk melalui button Remove. | Open |
 
 ---
 
