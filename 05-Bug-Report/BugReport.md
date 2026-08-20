@@ -25,7 +25,7 @@
 `Username: problem_user`
 `Password: secret_sauce`
 ### Lampiran
-<img src="../Lampiran/BUG-001.png" width="500" />
+<img src="../Lampiran/BUG-001.png" width="400" />
 
 ---
 
@@ -60,7 +60,7 @@
 ---
 
 ### Lampiran
-<img src="../Lampiran/BUG-002.png" width="300" />
+<img src="../Lampiran/BUG-002.png" width="400" />
 
 # Bug Summary
 
