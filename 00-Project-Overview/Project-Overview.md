@@ -1,60 +1,59 @@
 # Project Overview
 
-## Project Name
+## Nama Proyek
 
 SauceDemo E-Commerce Manual Testing
 
-## Application
+## Aplikasi
 
 SauceDemo
 
-## Project Description
+## Deskripsi Proyek
 
-This project focuses on manual testing of the SauceDemo e-commerce web application.
+Proyek ini berfokus pada pengujian manual terhadap aplikasi web e-commerce SauceDemo.
 
-The purpose of this project is to verify the functionality of the application and identify potential defects through structured manual testing.
+Tujuan dari proyek ini adalah untuk memverifikasi fungsionalitas aplikasi dan mengidentifikasi potensi defect melalui proses pengujian manual yang terstruktur.
 
-## Testing Objective
+## Tujuan Pengujian
 
-The objectives of this project are:
+Tujuan dari pengujian ini adalah:
 
-- Verify that users can login successfully.
-- Verify product listing functionality.
-- Verify product sorting functionality.
-- Verify product detail functionality.
-- Verify shopping cart functionality.
-- Verify checkout functionality.
-- Verify logout functionality.
-- Identify and document defects.
+* Memverifikasi bahwa pengguna dapat melakukan login dengan sukses.
+* Memverifikasi fungsi daftar produk.
+* Memverifikasi fungsi pengurutan produk.
+* Memverifikasi fungsi detail produk.
+* Memverifikasi fungsi keranjang belanja.
+* Memverifikasi fungsi checkout.
+* Memverifikasi fungsi logout.
+* Mengidentifikasi dan mendokumentasikan defect yang ditemukan.
 
-## Application Features
+## Fitur Aplikasi
 
-The main features tested in this project include:
+Fitur utama yang diuji dalam proyek ini meliputi:
 
 1. Login
-2. Product Listing
-3. Product Sorting
-4. Product Detail
-5. Shopping Cart
-6. Checkout
-7. Logout
+2. Product Sorting
+3. Product Detail
+4. Shopping Cart
+5. Checkout
+6. Logout
 
-## Testing Approach
+## Pendekatan Pengujian
 
-The testing will be performed using manual testing techniques.
+Pengujian dilakukan menggunakan teknik manual testing.
 
-Testing will include:
+Pengujian meliputi:
 
-- Functional Testing
-- Positive Testing
-- Negative Testing
-- Exploratory Testing
-- Regression Testing
+* Functional Testing
+* Positive Testing
+* Negative Testing
+* Exploratory Testing
+* Regression Testing
 
-## Test Environment
+## Lingkungan Pengujian
 
-Browser: Google Chrome
+**Browser:** Google Chrome 152
 
-Operating System: Windows
+**Operating System:** Windows 10
 
-Testing Type: Manual Testing
+**Testing Type:** Blackbox Testing
