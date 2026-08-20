@@ -34,9 +34,9 @@
 | Field | Detail |
 |---|---|
 | Bug ID | BUG-002 |
-| Test Case ID | TC-SORT-001 |
-| Module | Product Sorting |
-| Title | Sorting Name (A to Z) tidak mengurutkan produk sesuai pilihan |
+| Test Case ID | TC-CART-003 |
+| Module | Carting |
+| Title | Button Remove tidak dapat menghapus produk pada `problem_user` |
 | Environment | Windows 10, Google Chrome 152 |
 | Test Account | `problem_user` |
 | Severity | Medium |
@@ -54,12 +54,13 @@
 
 `Username: problem_user`
 `Password: secret_sauce`
-`Sorting: Name (A to Z)`
+`Product: Sauce Labs Backpack`
+`Action: Add to cart → Remove`
 
 ---
 
 ### Lampiran
-<img src="../Lampiran/BUG-001.png" width="300" />
+<img src="../Lampiran/BUG-002.png" width="300" />
 
 # Bug Summary
 
