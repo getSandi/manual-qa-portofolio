@@ -22,8 +22,8 @@
 
 ### Test Data
 
-`Username: problem_user`
-`Password: secret_sauce`
+-`Username: problem_user`
+-`Password: secret_sauce`
 
 ---
 
@@ -50,9 +50,9 @@
 ### Test Data
 
 
-`Username: problem_user`
-`Password: secret_sauce`
-`Sorting: Name (A to Z)`
+-`Username: problem_user`
+-`Password: secret_sauce`
+-`Sorting: Name (A to Z)`
 
 ---
 
