@@ -1,8 +1,10 @@
 # Quality Assurance Portofolio
-## About This Portofolio
-This repository contains my Manual Quality Assurance testing projects.
 
-The portfolio demonstrates my understanding and practical experience in:
+## Tentang Portofolio
+
+Repository ini berisi portofolio saya sebagai **Manual Quality Assurance**.
+
+Portofolio ini menunjukkan pemahaman dan pengalaman praktik saya dalam:
 
 - Test Planning
 - Test Scenario
@@ -13,3 +15,60 @@ The portfolio demonstrates my understanding and practical experience in:
 - Negative Testing
 - Exploratory Testing
 - Regression Testing
+
+---
+
+## Application Under Test
+
+**Application:** SauceDemo (Swag Labs)
+
+**Testing Type:** Manual Testing
+
+**Testing Approach:** Black Box Testing
+
+**Testing Scope:** Functional Testing
+
+---
+
+## Testing Result
+
+| Metric | Result |
+|---|---:|
+| Total Test Cases | 33 |
+| PASS | 31 |
+| FAIL | 2 |
+| BLOCKED | 0 |
+| Pass Rate | 93.94% |
+| Total Bugs | 2 |
+
+---
+
+## Portfolio Contents
+
+| Document | Description |
+|---|---|
+| [Test Plan](01-Test-Plan/Test-Plan.md) | Tujuan, scope, dan strategi pengujian |
+| [Test Scenario](02-Test-Scenario/Test-Scenario.md) | Skenario pengujian tingkat tinggi |
+| [Test Case](03-Test-Case/Test-Case.md) | Detail test case dan test data |
+| [Test Execution](04-Test-Execution/Test-Execution.md) | Hasil eksekusi pengujian |
+| [Bug Report](05-Bug-Report/) | Dokumentasi defect yang ditemukan |
+| [Regression Testing](06-Regression-Testing/Regression-Testing.md) | Hasil regression testing |
+| [Test Summary Report](07-Test-Summary-Report/Test-Summary-Report.md) | Ringkasan hasil pengujian |
+
+---
+
+## Defects Found
+
+| Bug ID | Module | Severity | Priority | Status |
+|---|---|---|---|---|
+| BUG-001 | Product | Medium | Medium | Open |
+| BUG-002 | Shopping Cart | Medium | Medium | Open |
+
+---
+
+## Tools
+
+- Google Chrome
+- GitHub
+- Markdown
+- SauceDemo
