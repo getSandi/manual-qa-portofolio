@@ -221,7 +221,7 @@ Regression testing setelah bug fix tidak dilakukan karena tidak terdapat perubah
 | 2 | Mendokumentasikan BUG-002 terkait button Remove. | Completed |
 | 3 | Mempertahankan status BUG-001 dan BUG-002 sebagai Pending. | Completed |
 | 4 | Melakukan regression testing terhadap fungsi utama aplikasi. | Completed |
-| 5 | Melakukan retest apabila terdapat perbaikan terhadap defect pada environment yang sama. | Not Applicable |
+| 5 | Melakukan retest apabila terdapat perbaikan terhadap defect pada environment yang sama. | Pending |
 | 6 | Melakukan regression testing kembali apabila terdapat perubahan pada aplikasi. | Recommended |
 
 ---
