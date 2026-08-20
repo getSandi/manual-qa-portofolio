@@ -51,12 +51,12 @@
 
 ### Test Data
 
-
+```text
 `Username: problem_user`
 `Password: secret_sauce`
 `Product: Sauce Labs Backpack`
 `Action: Add to cart → Remove`
-
+```
 ---
 
 ### Lampiran
