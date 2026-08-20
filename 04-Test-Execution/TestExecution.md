@@ -43,7 +43,7 @@
 
 | Scenario ID | Test Case ID | Expected Result | Actual Result | Status |
 |---|---|---|---|---|
-| TS-SORT-001 | TC-SORT-001 | Produk diurutkan berdasarkan nama dari A sampai Z. | Setelah memilih **Name (A to Z)** menggunakan `problem_user`, urutan produk tidak berubah sesuai sorting yang dipilih. | FAIL |
+| TS-SORT-001 | TC-SORT-001 | Produk diurutkan berdasarkan nama dari A sampai Z. | Produk berhasil diurutkan berdasarkan nama dari A sampai Z. | PASS |
 | TS-SORT-002 | TC-SORT-002 | Produk diurutkan berdasarkan nama dari Z sampai A. | Produk berhasil diurutkan berdasarkan nama dari Z sampai A. | PASS |
 | TS-SORT-003 | TC-SORT-003 | Produk diurutkan berdasarkan harga terendah ke tertinggi. | Produk berhasil diurutkan berdasarkan harga dari terendah ke tertinggi. | PASS |
 | TS-SORT-004 | TC-SORT-004 | Produk diurutkan berdasarkan harga tertinggi ke terendah. | Produk berhasil diurutkan berdasarkan harga dari tertinggi ke terendah. | PASS |
